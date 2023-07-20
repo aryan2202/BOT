@@ -1,4 +1,4 @@
-# BOT-GP-54
+# BOT
 Hello there!
 
 This project is made using python libraries and modules. This is a BOT that can do some automatic command given by users.
